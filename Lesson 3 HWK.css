@@ -1,0 +1,29 @@
+
+#li1 {
+    transform: rotateX(-180deg);
+}
+
+
+#li3 {
+    transform: skew(10deg, 30deg);
+}
+
+#li4 {
+    font-style: italic 20px; 
+    text-transform: capitalize;
+}
+
+#ptag1 {
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+
+#ptag2 {
+    text-shadow: 5px 3px 0.8px rgb(10, 204, 32);
+ 
+}
+
+#ptag3 {
+    text-shadow: 6px 5px 2px gold;
+}
+
